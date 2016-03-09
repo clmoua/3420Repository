@@ -1,1 +1,1 @@
-This is use case 3.
+Use Case 3.
