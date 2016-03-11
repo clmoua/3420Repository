@@ -4,6 +4,9 @@
 
 The use of external source carry risks. 
 
+The problem our system will try to solve is that the intake of exter sources carries risk. 
+
+To respond to or improve this risk we will create a system that will be able to 
 
 (Paragraph 2) Solution. improve or alleviate risk.
 Response to rick.
