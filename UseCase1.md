@@ -1,6 +1,7 @@
 #Use Case 1
 
 Title: Developer commits code to be examined for vulnerabilities 
+
 Primary Actor: Developer
 Goal in Context: Gather vulnerability information for all external source code that is used by developers
 Stakeholders: Developer / Manager
