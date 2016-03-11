@@ -2,7 +2,7 @@
 
 External Entities 
 
-Develoer: 
+Developer: 
 
 Manager:
 
