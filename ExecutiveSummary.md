@@ -7,9 +7,8 @@ harm the organization. Negative repercussions include wasting resources such as 
 having support from the group that will help improve on the external source.
 
 To respond to or alleviate the risks we will create a system than can help identify the risks or vulnerabilities. 
-This system will be able to 
+This system will be able to get access to information from the NIST database. We will use that information from the
+NIST database and compare it to our policy document. If the results from the NIST databases passes the allowable results in 
+our policy then the external source will be used. If the result does not pass then the external source will
+not be used. 
 
-
-
-(Paragraph 2) Solution. improve or alleviate risk.
-Response to rick.
