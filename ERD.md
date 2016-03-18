@@ -1,1 +1,1 @@
-#Entity Relationships Diagrams
+#EntityRelationshipsDiagrams
