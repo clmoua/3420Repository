@@ -1,4 +1,4 @@
-#Executive Summary
+# Executive Summary
 
 The problem our system will try to solve is that the intake of external sources carries risks.
 Risks from external source include not having much support from a community, infringement on someone's intellectual property,
@@ -12,5 +12,4 @@ NIST database and compare it to our policy document. If the results from the NIS
 our policy then the external source will be used. If the result does not pass then the external source will
 not be used. 
 
-##References
-
+## References
