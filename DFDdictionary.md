@@ -8,13 +8,13 @@ Corporate Manager: This individual in the organization is responsible for storin
 
 Data Flows
 
-File:
+File: Documents with necessary information needed.
 
-Package:
+Package: Group of documents or files in the system.
 
 Data Stores
 
-Risk DB:
+Risk DB: Database that has the risks involved with the open-source code.
 
 Processes
 
