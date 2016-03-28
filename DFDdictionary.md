@@ -6,9 +6,9 @@ Corporate Developer: This individual in the organization is responsible for scan
 
 Corporate Manager: This individual in the organization is responsible for storing and retreiving code information in the database.
 
-National Vulnerability Database:
+National Vulnerability Database: Database that contains known vulnerabilities in open-source software.
 
-CVE Database:
+CVE Database: Database that contains CVE information.
 
 
 ##Data Flows
@@ -17,9 +17,9 @@ File: Documents with necessary information needed.
 
 Package: Group of documents or files in the system.
 
-License Info: 
+License Info: Type of information from open-source software.
 
-CPE Information:
+CPE Information: 
 
 CVE Information:
 
