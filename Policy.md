@@ -1,7 +1,5 @@
-This is the policy documents 
+Policy Document
 
-1-Context
+Types of Licenses 
 
-2-Threshold 
 
-3-Response
