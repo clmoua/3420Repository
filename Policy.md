@@ -1,5 +1,5 @@
-Policy Document
+#Policy Document
 
-Types of Licenses 
+##Types of Licenses 
 
 
