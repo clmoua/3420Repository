@@ -28,7 +28,7 @@ CVE Information:
 
 Risk DB: Database that has the risks involved with the open-source code.
 
-NIST CPE Information:
+NIST CPE Information: Database that has known vulnerabilities from NIST.
 
 ##Processes
 
