@@ -17,7 +17,7 @@ File: Documents with necessary information needed.
 
 Package: Group of documents or files in the system.
 
-License Info: Type of information from open-source software.
+License Info: License information from open-source software.
 
 CPE Information: 
 
