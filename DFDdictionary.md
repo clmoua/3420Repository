@@ -40,7 +40,7 @@ Manage Project Information:
 
 Manage CVE Information:
 
-Manage Project Information:
+ Manage Project Information:
 
 
 
