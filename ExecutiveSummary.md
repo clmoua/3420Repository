@@ -2,7 +2,7 @@
 
 The problem our system will try to solve is that the intake of external sources carries risks.
 Risks from external source include not having much support from a community, infringement on someone's intellectual property,
-reliablity, and the security of the source. If the risks are not dealt with there will be negative repercussions that can
+reliablity, and the security of the source (OpenLogic, 2013). If the risks are not dealt with there will be negative repercussions that can
 harm the organization. Negative repercussions include wasting resources such as time and money. It also includes not 
 having support from the group that will help improve on the external source.
 
