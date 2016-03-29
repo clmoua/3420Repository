@@ -15,3 +15,4 @@ Main Success Scenario: Known vulnerabilities retrieved from the NIST Database.
 Failed End Conditions: Vulnerabilities not retrieved.
 
 Trigger: Code check in 
+
