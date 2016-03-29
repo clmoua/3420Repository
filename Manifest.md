@@ -2,8 +2,6 @@ Manifest Document
 
 #Document
 
-Document:
-
 Author:
 Date:
 Document ID:
