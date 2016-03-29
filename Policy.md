@@ -20,4 +20,3 @@ Apache License
 Allowable CVSS Scores (X)
 
 0 < X <= 6
-
