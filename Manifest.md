@@ -9,11 +9,11 @@ Manifest Document
     Author Comments:
 
 
-#Project
-    Project Name:
-    Project Submitter:
-    Project ID:
-    Project Comments:
+#Package
+    Package Name:
+    Package Submitter:
+    Package ID:
+    Package Comments:
     
 
 #File
