@@ -30,15 +30,15 @@ Risk DB: Database that has the risks involved with the open-source code.
 
 NIST CPE Information: Database that has known vulnerabilities from NIST.
 
+Policy Databse: Database that contains policy information.
+
 ##Processes
 
-License Scanner:
+License Scanner: Scans to get license information.
 
 Manage Code Streams:
 
-Manage Project Information:
-
 Manage CVE Information:
 
- Manage Project Information:
+
 
