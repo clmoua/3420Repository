@@ -14,7 +14,7 @@ BSD License
 Apache License
 
 ##Thresholds
-The allowable CVE(X) value must be
+The allowable CVE (X) value must be
 0 < X <= 6
 
 ##Response
