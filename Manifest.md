@@ -24,7 +24,6 @@ Manifest Document
 #File
     File Name:
     File ID:
-    Licenses:
     Description:
     Summary:
     
