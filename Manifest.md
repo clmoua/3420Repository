@@ -3,11 +3,10 @@ Manifest Document
 #Document
 
     Author:
-    Date:
+    Date Created:
     Document ID:
     Document Comments:
     Author Comments:
-    Creation Date:
 
 
 #Project
