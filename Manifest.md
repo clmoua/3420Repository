@@ -8,13 +8,18 @@ Manifest Document
     Document Comments:
     Author Comments:
 
-
 #Package
     Package Name:
     Package Submitter:
     Package ID:
     Package Comments:
+    CVE Value:
     
+#Project
+    Project Name:
+    Project Submitter:
+    Project ID:
+    Project Description:
 
 #File
     File Name:
