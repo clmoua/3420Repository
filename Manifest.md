@@ -6,17 +6,23 @@ Manifest Document
     Date:
     Document ID:
     Document Comments:
-    References:
+    Author Comments:
+    Creation Date:
 
 
 #Project
     Project Name:
     Project Submitter:
     Project ID:
+    Project Comments:
     
 
 #File
     File Name:
     File ID:
-    License:
+    Licenses:
+    Description:
+    Summary:
+    
+    
 
