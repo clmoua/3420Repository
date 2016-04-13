@@ -14,6 +14,7 @@ Manifest Document
     Package ID:
     Package Comments:
     CVE Value:
+    CPE ID:
     
 #Project
     Project Name:
