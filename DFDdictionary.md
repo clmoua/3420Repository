@@ -16,7 +16,7 @@
 
 **File/Package:** File or package.
 
-*vPackage and CPE Information:** Contains both package and CPE information.
+**Package and CPE Information:** Contains both package and CPE information.
 
 **CPE and CVE Information:** Contains both CPE and CVE information.
 
