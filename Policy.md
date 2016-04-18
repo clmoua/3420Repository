@@ -16,9 +16,9 @@ This will also be in accord witht the different context.
 #Policy 
         Policy ID  
         Policy Name 
-        Policy DateCreated
+        Policy Date Created
         Policy Type
-        Policy AcceptableScore
+        Policy Acceptable Score
         
         
     
