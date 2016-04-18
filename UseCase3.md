@@ -1,17 +1,17 @@
 Use Case 3.
 
-Title: Retrieve NIST Vulnerabilities
+Title: Retrieve Policy Response
 
-Primary Actor: Developer
+Primary Actor: Corporate Manager
 
-Goal in Context: Retrieve vulnerabilities from the NIST Database.
+Goal in Context: Retrieve policy response from policy DB.
 
 Stakeholders: Developer / Manager
 
-Preconditions: Developer is able to check in external source code to vulnerability system. NIST vulnerability database is up to date. 
+Preconditions: Manager able to get project information.
 
-Main Success Scenario: Known vulnerabilities retrieved from the NIST Database.
+Main Success Scenario: Policy retrieved from the policy database.
 
-Failed End Conditions: Vulnerabilities not retrieved.
+Failed End Conditions: Policy not retrieved.
 
 Trigger: Code check in 
