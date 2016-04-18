@@ -1,12 +1,10 @@
 #Use Case 1
 
-Title:Developer commits code to be examined for vulnerabilities 
+**Title:**Developer commits code to be examined for vulnerabilities 
 
-Primary Actor:Developer
+**Primary Actor:**Developer
 
-Goal in Context: 
-
-Gather vulnerability information for all external source code that is used by developers
+**Goal in Context:**Gather vulnerability information for all external source code that is used by developers
 
 Stakeholders: 
 
