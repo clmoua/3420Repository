@@ -1,34 +1,18 @@
 #Use Case 2.
 
-###Title: 
+**Title:** Check Vulnerabilities Against Policy
 
-Check Vulnerabilities Against Policy
+**Primary Actor:** Developer
 
-###Primary Actor: 
+**Goal in Context:** Gather vulnerability information for all external source code that is used by developers and check it against the policy.
 
-Developer
+**Stakeholders:** Developer / Manager
 
-###Goal in Context: 
+**Preconditions:** Developer is able to check in external source code to vulnerability system. NIST vulnerability database is up to date. 
 
-Gather vulnerability information for all external source code that is used by developers and check it against the policy.
+**Main Success Scenario:** Developer checks in code and finds the vulnerabilities. He/she checks it against the given policy.
 
-###Stakeholders: 
+**Failed End Conditions:** Developer is unable to check in code. Checked in code is not checked for vulnerabilities, failing to update Risk DB. 
 
-Developer / Manager
-
-###Preconditions: 
-
-Developer is able to check in external source code to vulnerability system. NIST vulnerability database is up to date. 
-
-####Main Success Scenario:
-
-Developer checks in code and finds the vulnerabilities. He/she checks it against the given policy.
-
-###Failed End Conditions: 
-
-Developer is unable to check in code. Checked in code is not checked for vulnerabilities, failing to update Risk DB. 
-
-###Trigger: 
-
-Code check in.
+**Trigger:** Code check in.
 
