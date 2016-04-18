@@ -2,24 +2,15 @@
 
 ##Context
 
-It must have one of the following licenses
-
-Copyleft:
-GNU General Public License 2.0
-GNU General Public License 3.0
-
-Permissive:
-MIT License
-BSD License
-Apache License
+Within different context different policies will be applied.
 
 ##Thresholds
-The allowable CVE (X) value must be
-0 < X <= 6
+
+This will be in accord with the different context.
 
 ##Response
-If it does not pass then do not use software.
 
+This will also be in accord witht the different context.
 
 Policy
     Policy ID
