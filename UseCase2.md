@@ -30,5 +30,5 @@ Developer is unable to check in code. Checked in code is not checked for vulnera
 
 ###Trigger: 
 
-Code check in 
+Code check in.
 
