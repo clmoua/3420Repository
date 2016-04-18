@@ -20,6 +20,7 @@ The allowable CVE (X) value must be
 ##Response
 If it does not pass then do not use software.
 
+
 Policy
     Policy ID
     Policy Name
