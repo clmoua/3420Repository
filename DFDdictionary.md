@@ -19,11 +19,11 @@ Package: Group of documents or files in the system.
 
 License Info: License information from open-source software.
 
-CPE Information: 
+CPE Information: NIST information with vulnerability.
 
-CVE Information:
+CVE Information: List of vulnerabilities and exposures.
 
-Policy Information: 
+Policy Information: Information of context, threshold, and response to corporate manager.
 
 
 ##Data Stores
@@ -38,8 +38,8 @@ Policy Databse: Database that contains policy information.
 
 License Scanner: Scans to get license information.
 
-Manage Code Streams:
+Manage Code Streams: Manages incoming code.
 
-Manage CVE Information:
+Manage CVE Information: Manages incoming CVE information.
 
 
