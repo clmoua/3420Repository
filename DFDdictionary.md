@@ -10,10 +10,31 @@ National Vulnerability Database: Database that contains known vulnerabilities in
 
 CVE Database: Database that contains CVE information.
 
-
 ##Data Flows
 
 File: Documents with necessary information needed.
+
+File/Package: File or package.
+
+Package and CPE Information: Contains both package and CPE information.
+
+CPE and CVE Information: Contains both CPE and CVE information.
+
+CPE Request: Request from NIST Database.
+
+CPE Response: Response from NIST Database.
+
+CVE Response: Response from CVE Database.
+
+CVE Request: Request from CVE Database.
+
+Project Info Request: Request from manager about project.
+
+Project Info Response: Response from manager about project.
+
+Policy Response: Policy response from Policy Database.
+
+Package and CPE Information: Contains both package and cpe information.
 
 Package: Group of documents or files in the system.
 
@@ -23,12 +44,9 @@ CPE Information: NIST information with vulnerability.
 
 CVE Information: List of vulnerabilities and exposures.
 
-Policy Information: Information of context, threshold, and response to corporate manager.
+Policy Information: Information that contains context, threshold, and response to corporate manager.
 
-Package Query:
-
-
-
+Package Query: NIST request for package to be scanned.
 
 ##Data Stores
 
