@@ -1,33 +1,17 @@
 #Use Case 3.
 
-###Title:
+**Title:** Retrieve Policy Response
 
-Retrieve Policy Response
+**Primary Actor:**Corporate Manager
 
-###Primary Actor: 
+**Goal in Context:** Retrieve policy response from policy DB.
 
-Corporate Manager
+**Stakeholders:** Developer / Manager
 
-###Goal in Context: 
+**Preconditions:** Manager able to get project information.
 
-Retrieve policy response from policy DB.
+**Main Success Scenario:** Policy retrieved from the policy database.
 
-###Stakeholders:
+**Failed End Conditions:** Policy not retrieved.
 
-Developer / Manager
-
-###Preconditions: 
-
-Manager able to get project information.
-
-###Main Success Scenario: 
-
-Policy retrieved from the policy database.
-
-###Failed End Conditions: 
-
-Policy not retrieved.
-
-###Trigger: 
-
-Code check in.
+**Trigger:** Code check in.
