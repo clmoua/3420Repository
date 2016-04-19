@@ -10,8 +10,8 @@
 
 **Preconditions:** Manager able to get project information.
 
-**Main Success Scenario:** Policy retrieved from the policy database.
+**Main Success Scenario:** Policy response retrieved from the policy database.
 
-**Failed End Conditions:** Policy not retrieved.
+**Failed End Conditions:** Policy response not retrieved.
 
 **Trigger:** Code check in.
