@@ -40,11 +40,11 @@
 
 ##Data Stores
 
-**Risk DB:** Database that has the risks involved with the open-source code.
-
 **NIST CPE Information:** Database that has known vulnerabilities from NIST.
 
 **Policy Databse:** Database that contains policy information.
+
+**Risk DB:** Database that has the risks involved with the open-source code.
 
 ##External Entities 
 
@@ -52,9 +52,9 @@
 
 **Corporate Manager:** This individual in the organization is responsible for storing and retreiving code information in the database.
 
-**National Vulnerability Database:** Database that contains known vulnerabilities in open-source software.
-
 **CVE Database:** Database that contains CVE information.
+
+**National Vulnerability Database:** Database that contains known vulnerabilities in open-source software.
 
 ##Processes
 
