@@ -1,6 +1,6 @@
-Manifest Document
+#Manifest Document
 
-#Package
+###Package
     Package Name:
     Package Submitter:
     Package ID:
@@ -8,13 +8,13 @@ Manifest Document
     CVE Value:
     CPE ID:
     
-#Project
+###Project
     Project Name:
     Project Submitter:
     Project ID:
     Project Description:
 
-#File
+###File
     File Name:
     File ID:
     Description:
