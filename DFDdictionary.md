@@ -44,7 +44,7 @@
 
 **CVE Information:** List of vulnerabilities and exposures.
 
-*vPolicy Information:** Information that contains context, threshold, and response to corporate manager.
+**Policy Information:** Information that contains context, threshold, and response to corporate manager.
 
 **Package Query:** NIST request for package to be scanned.
 
