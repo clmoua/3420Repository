@@ -1,15 +1,5 @@
 #DFD Dictionary
 
-##External Entities 
-
-**Corporate Developer:** This individual in the organization is responsible for scanning the files for license, CVE, as well as CPE values and using it to manage the open-source code. 
-
-**Corporate Manager:** This individual in the organization is responsible for storing and retreiving code information in the database.
-
-**National Vulnerability Database:** Database that contains known vulnerabilities in open-source software.
-
-**CVE Database:** Database that contains CVE information.
-
 ##Data Flows
 
 **File:** Documents with necessary information needed.
@@ -55,6 +45,16 @@
 **NIST CPE Information:** Database that has known vulnerabilities from NIST.
 
 **Policy Databse:** Database that contains policy information.
+
+##External Entities 
+
+**Corporate Developer:** This individual in the organization is responsible for scanning the files for license, CVE, as well as CPE values and using it to manage the open-source code. 
+
+**Corporate Manager:** This individual in the organization is responsible for storing and retreiving code information in the database.
+
+**National Vulnerability Database:** Database that contains known vulnerabilities in open-source software.
+
+**CVE Database:** Database that contains CVE information.
 
 ##Processes
 
